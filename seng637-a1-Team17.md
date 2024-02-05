@@ -32,8 +32,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+This report is to document the lab that provides an introduction to practical exploratory and manual functional testing. For the all the group members, our background in exploratory and manual testing was purely theoretical, with some exposure through class examples. Exploratory testing was described as being a software testing method that doesn't follow any predefined test suite to uncover for any faults and defects. It allows the tester to create their own test scenarios. Manual scripted testing, on the other hand was described as taking a rigid approach, with the tester following a predefined test suite to record any defects.
 
 # High-level description of the exploratory testing plan
 
