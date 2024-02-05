@@ -4,10 +4,11 @@
 
 | Group: Group Number      |
 |-----------------|
-| Student 1 B                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Student 1 Brandon Lac                |   
+| Student 2 Mustayeen Abedin           |   
+| Student 3 Mevin Moncy                |   
+| Student 4 Kate Reimann               |   
+| Student 5 Nur-Alhuda Ali             |   
 
 
 **Table of Contents**
