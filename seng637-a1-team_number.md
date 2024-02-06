@@ -197,66 +197,57 @@ Highly effective in discovering new, unexpected bugs and exploring system behavi
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+The key talking points in our review sessions were based on the following:
+
+- We all had to agree on the severity ratings assigned to defect. For example Work ID 5, was rated as Critical due to the fact that it was negatively impacting the system's functionality and had undesired effects that was a risk to the business.
+
+- We all had to agree on the tags. The tags column used to indicate the testing phase and version makes the report easier to read. 
+
+- We discussed the importance of regularly updating the defect status. For defects that are still active, such as Work Item 6 and others, we provide a Closing Comment to provide clarity on corrective actions taken and current status. 
+
+We talked about lessons learned on how to properly document defects. The sessiosn helped us identify areas of improvement and ensured that all members had a clear understanding of defect lifecycle management process.
+
 
 # How the pair testing was managed and team work/effort was divided
 
-We split up into two pairs of groups and assigned each group different components to test. Here is the breakdown:
+We used the suggested "pair testing" approach, which made use of one member conducting the testing while the other reviewed and analyzed the results. We split the pair testing in the following tasks where one member was in charge of executing the tests and the other was responsible for documentation.
+
 
 ### Card and PIN Validation
-
-- Name
-- Name
+- Brandon and Mustayeen
 
 ### Cash Withdrawal
-
-- Name
-- Name
+- Mevin and Kate
 
 ### Deposits
-
-- Name
-- Name
+- Nur and Brandon
 
 ### Money Transfers
-
-- Name
-- Name
+- Mustayeen and Mevin
 
 ### Balance Check
-
-- Name
-- Name
+- Kate and Nur
 
 ### Transaction Abortion
-
-- Name
-- Name
+- Brandon and Mevin
 
 ### Receipt Generation
-
-- Name
-- Name
+- Mustayeen and Kate
 
 ### Operator Controls
-
-- Name
-- Name
+- Mevin and Nur-Alhuda
 
 ### Internal Transaction Log
-
-- Name
-- Name
+- Brandon and Kate
 
 ### Bank Communication
-
-- Name
-- Name
+- Mustayeen and Nur-Alhuda
 
 ### Software Failure Handling
+- Mevin and Brandon
 
-- Name
-- Name
+
+We organized the division of tasks in the above format to ensure that every member got exposure to different test scenarios. After each pair testing session, we also discussed together as a group to ensure consistency of the defect reports. After all the tests have been completed, we organized our findings together where we went over the defect rpeort one last time. 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
