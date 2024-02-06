@@ -199,9 +199,11 @@ Highly effective in discovering new, unexpected bugs and exploring system behavi
 
 The key talking points in our review sessions were based on the following:
 
+- We strived for completeness and comprehensiveness of the reports. This meant that we reviewed that every work item stated which function was being tested, the description of the issue, the state of the system, steps to reproduce the bug, and the expected and actual results. We tried to keep the information concise to be able to quickly look through the report. 
+
 - We all had to agree on the severity ratings assigned to defect. For example Work ID 5, was rated as Critical due to the fact that it was negatively impacting the system's functionality and had undesired effects that was a risk to the business.
 
-- We all had to agree on the tags. The tags column used to indicate the testing phase and version makes the report easier to read. 
+- We all had to agree on the tags for consistency. The tags column used to indicate the testing phase and version makes the report easier to read. 
 
 - We discussed the importance of regularly updating the defect status. For defects that are still active, such as Work Item 6 and others, we provide a Closing Comment to provide clarity on corrective actions taken and current status. 
 
